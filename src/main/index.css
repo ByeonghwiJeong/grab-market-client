@@ -1,27 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 #banner {
   height: 300px;
   background-color: yellow;
-}
-
-#header-area {
-  width: 1024px;
-  height: 100%;
-  /* 가운데 정렬법 */
-  margin: 0 auto;
-  /* 부모 header에서 자식header-area가 가운데 정렬됨 */
-  /* head속성 > display:flex; , justify-content:center */
-  display: flex;
-  align-items: center;
-}
-
-#header-area > img {
-  height: 36px;
-  width: 128px;
 }
 
 #banner > img {
