@@ -43,3 +43,10 @@
   color: #ffffff;
   margin-top: 16px;
 }
+
+#upload-img {
+  width: 200px;
+  height: 200px;
+  margin: 16px;
+  object-fit: contain;
+}
